@@ -53,14 +53,14 @@
 ---
 ### 📊 Estatísticas e Tecnologias
 
-<p align="left">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jcamposss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" 
-    height="140"
+    height="160"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposss&layout=compact&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Mais%20Usadas" 
-    height="140"
+    height="160"
   />
 </p>
 
