@@ -51,7 +51,7 @@
 </p>
 
 ---
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Tecnologias
 
 <p align="center">
   <img 
@@ -59,10 +59,11 @@
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposss&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamposss&layout=compact&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Mais%20Usadas" 
     height="180"
   />
 </p>
+
 ---
 ### 📈 Gráfico de Atividades
 
