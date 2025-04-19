@@ -53,7 +53,7 @@
 ---
 ### 📊 Estatísticas e Tecnologias
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jcamposss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" 
     height="180"
@@ -67,7 +67,7 @@
 ---
 ### 📈 Gráfico de Atividades
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=jcamposss&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true&locale=pt-br&custom_title=Gr%C3%A1fico%20de%20Atividades%20Recentes" 
     alt="Gráfico de Atividades"
